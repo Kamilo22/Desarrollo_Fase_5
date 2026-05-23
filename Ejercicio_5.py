@@ -7,7 +7,7 @@ matriz_horas = [
 ]
 
 
-def procesar_horarios_simple(matriz):
+def procesar_horarios(matriz):
 
     print("REPORTE DE HORAS SEMANALES")
 
@@ -26,4 +26,4 @@ def procesar_horarios_simple(matriz):
 
     print("-" * 30)
 
-procesar_horarios_simple(matriz_horas)
+procesar_horarios(matriz_horas)
